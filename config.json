@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "classic",
   "css": "./custom.css",
-  "footer": "Data provided is subject to change without notice, and no guarantees or warranties of accuracy, completeness, or reliability are made."",
+  "footer": "Data provided is subject to change without notice, and no guarantees or warranties of accuracy, completeness, or reliability are made.",
   "usage-stats": false
 }
